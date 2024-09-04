@@ -46,5 +46,5 @@ ENDIF()
   
 # 添加子目录，这些子目录应该包含自己的CMakeLists.txt文件  
 # ADD_SUBDIRECTORY(src)  
-ADD_SUBDIRECTORY(app)  
+ADD_SUBDIRECTORY(App)
 # ADD_SUBDIRECTORY(test)
